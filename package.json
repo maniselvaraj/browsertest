@@ -1,0 +1,15 @@
+{
+  "name": "browsertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.5.13",
+    "webdriverio": "^4.12.0"
+  }
+}
